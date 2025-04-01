@@ -1,7 +1,6 @@
 # 💣 Campo Minado
 
-Este projeto é uma recriação do jogo **Campo Minado** com o intuito de por em pratica meu aprendizado em programação
-
+Este projeto é uma recriação do jogo **Campo Minado** com o intuito de por em pratica meu aprendizado em programação. Jogue pelo link [CampoMinado](https://mateusspbrito.github.io/campo-minado/)
 
 ## 🛠️ Tecnologias Utilizadas
 
